@@ -1,0 +1,12 @@
+[submodule "Project-3-deployments"]
+	path = Project-3-deployments
+	url = https://github.com/2006NodeDev/Project-3-deployments.git
+[submodule "Project-3-userservice"]
+	path = Project-3-userservice
+	url = https://github.com/2006NodeDev/Project-3-userservice.git
+[submodule "Project-3-profileservice"]
+	path = Project-3-profileservice
+	url = https://github.com/2006NodeDev/Project-3-profileservice.git
+[submodule "Project-3-ui"]
+	path = Project-3-ui
+	url = https://github.com/2006NodeDev/Project-3-ui.git
